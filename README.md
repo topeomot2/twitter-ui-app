@@ -4,6 +4,14 @@ Twitter ui created with Flutter
 
 ## Getting Started
 
+The aim if this project is to build a Twitter Mobile App UI but with the following constraint
+
+⋅⋅* Use only widgets that come out of the box in Flutter
+
+⋅⋅* Do not use external libraries
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
