@@ -2,7 +2,7 @@
 
 Twitter ui created with Flutter
 
-The aim if this project is to build a Twitter Mobile App UI but with the following constraint
+The aim of this project is to build a Twitter Mobile App UI but with the following constraint
 
 * Use only widgets that come out of the box in Flutter
 
